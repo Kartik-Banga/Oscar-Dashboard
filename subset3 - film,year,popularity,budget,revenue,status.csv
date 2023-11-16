@@ -1,0 +1,704 @@
+film,year,movies.budget,movies.revenue,movies.popularity,status
+The Jazz Singer,1927,422000,2600000,7.6,nominated
+Our Dancing Daughters,1928,178000,1099000,1.43,nominated
+It Happened One Night,1934,325000,4500000,10.43,winner
+Mr. Deeds Goes to Town,1936,0,0,9.39,nominated
+Morocco,1930,0,0,6.73,nominated
+Theodora Goes Wild,1936,0,0,1.98,nominated
+The Great Ziegfeld,1936,0,0,5.7,nominated
+The Champ,1931,356000,1600000,3.01,nominated
+Stage Door,1937,952000,1762000,5.36,nominated
+The Awful Truth,1937,600000,3000000,6.63,nominated
+Four Daughters,1938,0,0,2.59,nominated
+Stagecoach,1939,531374,1103757,11.31,nominated
+Ninotchka,1939,1365000,2279000,8.26,nominated
+Love Affair,1939,0,0,5.34,nominated
+Rebecca,1940,1288000,6000000,12.09,nominated
+The Grapes of Wrath,1940,800000,1591000,8.93,nominated
+The Great Dictator,1940,2000000,11000000,15.78,nominated
+The Philadelphia Story,1940,0,0,7.64,winner
+Cleopatra,1934,0,0,4.3,nominated
+The Devil and Miss Jones,1941,0,0,3.28,nominated
+Meet John Doe,1941,0,2000000,5.85,nominated
+How Green Was My Valley,1941,1250000,6000000,7.25,nominated
+Woman of the Year,1942,3000000,0,9.14,winner
+Mutiny on the Bounty,1935,1950000,4460000,8.04,nominated
+Mrs. Miniver,1942,1344000,13500000,8.05,nominated
+Watch on the Rhine,1943,0,0,3.47,nominated
+Shadow of a Doubt,1943,0,0,9.34,nominated
+Double Indemnity,1944,927262,2500000,19.39,nominated
+Meet Me in St. Louis,1944,1707561,7566000,8.46,nominated
+Laura,1944,1020000,2000000,10.12,nominated
+Cover Girl,1944,0,0,5.28,nominated
+Since You Went Away,1944,0,0,2.3,nominated
+Lifeboat,1944,1590000,0,7.04,nominated
+The Uninvited,1944,0,0,5.34,nominated
+Mildred Pierce,1945,1453000,5638000,6.92,nominated
+Spellbound,1945,1500000,7000000,7.34,nominated
+San Francisco,1936,1300000,5273000,4.36,nominated
+It's a Wonderful Life,1946,3180000,9644124,33.52,nominated
+Fury,1936,604000,1300000,6.11,nominated
+The Stranger,1946,0,0,6.95,nominated
+Black Narcissus,1947,424000,0,7.02,winner
+The Ghost and Mrs. Muir,1947,0,0,7.79,nominated
+Body and Soul,1947,0,0,5.53,nominated
+My Man Godfrey,1936,575375,684200,6.27,nominated
+Miracle on 34th Street,1947,630000,2700000,9.11,winner
+The Red Shoes,1948,500000,0,9.81,nominated
+The Snake Pit,1948,0,0,4.41,nominated
+I Remember Mama,1948,0,0,2.82,nominated
+Joan of Arc,1948,0,0,4.58,winner
+The Barkleys of Broadway,1949,2250000,4421000,3.75,nominated
+Little Women,1949,0,0,8.24,nominated
+A Letter to Three Wives,1949,0,0,5.77,winner
+The Heiress,1949,2600000,2300000,10.15,winner
+Lost Horizon,1937,4000000,0,6.01,winner
+The Life of Emile Zola,1937,0,0,6.49,nominated
+Born Yesterday,1950,0,0,6.31,nominated
+No Way Out,1950,0,0,4.63,nominated
+Caged,1950,0,0,3.88,nominated
+A Streetcar Named Desire,1951,1800000,8000000,10.97,nominated
+Show Boat,1951,2300000,11000000,4,nominated
+Quo Vadis,1951,7623000,21037000,19.29,nominated
+Roman Holiday,1953,1500000,12000000,13.58,nominated
+The Cruel Sea,1953,0,0,4.04,nominated
+The Adventures of Robin Hood,1938,2033000,3981000,11.05,winner
+From Here to Eternity,1953,1650000,30500000,8.08,winner
+How to Marry a Millionaire,1953,0,0,10.73,nominated
+Angels with Dirty Faces,1938,0,0,7.8,nominated
+Seven Brides for Seven Brothers,1954,0,5000000,9.36,nominated
+Rear Window,1954,1000000,37034514,15.29,nominated
+Sabrina,1954,2239000,10000000,19.55,nominated
+Three Coins in the Fountain,1954,0,0,4.94,winner
+To Catch a Thief,1955,2500000,8750000,10.05,nominated
+Guys and Dolls,1955,5500000,0,7.43,nominated
+Marty,1955,343000,3000000,6.78,winner
+Jezebel,1938,1250000,0,6.36,nominated
+Oklahoma!,1955,0,0,10.66,nominated
+Summertime,1955,0,0,6.05,nominated
+The Bad Seed,1956,1000000,0,6.14,nominated
+War and Peace,1956,6000000,12500000,8.78,nominated
+Of Mice and Men,1939,0,0,3.84,nominated
+Wuthering Heights,1939,0,0,8.4,winner
+High Society,1956,2000000,0,6.03,nominated
+"Goodbye, Mr. Chips",1939,0,0,7.2,nominated
+Funny Face,1957,0,0,8.99,nominated
+Juarez,1939,0,0,3.77,nominated
+Auntie Mame,1958,0,0,6.04,nominated
+Separate Tables,1958,0,0,6.58,nominated
+Mr. Smith Goes to Washington,1939,1500000,9600000,12.42,nominated
+South Pacific,1958,6000000,36800000,6.9,nominated
+The Inn of the Sixth Happiness,1958,0,0,4.66,nominated
+Cat on a Hot Tin Roof,1958,3000000,17570324,7.89,nominated
+Young Mr. Lincoln,1939,0,0,5.75,nominated
+I Want to Live!,1958,0,0,5.07,nominated
+Ben-Hur,1959,15000000,164000000,38.36,winner
+The Nun's Story,1959,3500000,12800000,9.24,nominated
+The Private Lives of Elizabeth and Essex,1939,0,0,21.36,nominated
+Some Like It Hot,1959,2883848,25000000,20.28,nominated
+Foreign Correspondent,1940,0,0,6.55,nominated
+Pillow Talk,1959,0,18750000,7.52,winner
+Inherit the Wind,1960,0,0,7,nominated
+The Apartment,1960,3000000,25000000,11.38,winner
+Psycho,1960,806947,50000000,33.5,nominated
+Exodus,1960,4000000,21750000,7.6,nominated
+Comrade X,1940,0,0,1.74,nominated
+The Virgin Spring,1960,0,700000,7.1,nominated
+The Children's Hour,1961,0,0,8.23,nominated
+The Letter,1940,0,0,4.77,nominated
+"One, Two, Three",1961,3000000,4000000,8.57,nominated
+West Side Story,1961,6000000,43656822,8.99,nominated
+"All This, and Heaven Too",1940,0,0,3.11,nominated
+Splendor in the Grass,1961,0,0,6.4,winner
+Boom Town,1940,2000000,9172000,4.75,nominated
+The Parent Trap,1961,0,0,12.76,nominated
+What Ever Happened to Baby Jane?,1962,980000,0,7.76,winner
+Lolita,1962,2000000,9250000,24.98,nominated
+To Kill a Mockingbird,1962,2000000,13129846,10.17,winner
+Gypsy,1962,0,0,4.76,nominated
+The Miracle Worker,1962,500000,2500000,6.56,nominated
+Hatari!,1962,0,0,7.21,nominated
+Citizen Kane,1941,839727,23218000,13.32,winner
+Tom Jones,1963,1000000,37600000,9.4,winner
+The Lady Eve,1941,0,0,5.75,nominated
+"It's a Mad, Mad, Mad, Mad World",1963,9400000,60000000,13.49,nominated
+The Little Foxes,1941,0,0,6.91,nominated
+Mary Poppins,1964,6000000,103082380,37.26,nominated
+My Fair Lady,1964,17000000,72661442,12.84,winner
+The Maltese Falcon,1941,375000,1772000,11.98,nominated
+The Unsinkable Molly Brown,1964,0,0,4.49,nominated
+The Sound of Music,1965,8200000,286214286,18.32,nominated
+Inside Daisy Clover,1965,4500000,0,3.46,nominated
+Darling,1965,0,0,6.93,winner
+A Patch of Blue,1965,800000,6792000,6.25,nominated
+Georgy Girl,1966,0,0,4.58,nominated
+Bonnie and Clyde,1967,2500000,50700000,12.75,nominated
+Thoroughly Modern Millie,1967,0,0,7.37,nominated
+Two for the Road,1967,0,0,6.64,nominated
+Guess Who's Coming to Dinner,1967,4000000,56666667,8.79,winner
+Rosemary's Baby,1968,3200000,33395426,19.05,nominated
+Romeo and Juliet,1968,0,38901218,12.7,nominated
+Star!,1968,14320000,14000000,2.07,nominated
+The Lion in Winter,1968,0,0,9.69,nominated
+Funny Girl,1968,14000000,52223306,5.94,nominated
+The Magnificent Ambersons,1942,0,0,7.23,nominated
+"Hello, Dolly!",1969,24000000,33208099,7.55,nominated
+Five Easy Pieces,1970,0,18099091,7.68,nominated
+Airport,1970,10000000,100489151,9.24,nominated
+Darling Lili,1970,0,0,3.64,nominated
+Bedknobs and Broomsticks,1971,20000000,17900000,9.86,nominated
+"Mary, Queen of Scots",1971,0,0,3.64,nominated
+The More the Merrier,1943,0,0,6.76,nominated
+Klute,1971,2500000,12512637,7.71,nominated
+Nicholas and Alexandra,1971,0,0,4.34,winner
+The Andromeda Strain,1971,6500000,12376563,11.31,nominated
+Travels with My Aunt,1972,0,0,3.55,nominated
+Butterflies Are Free,1972,0,0,5.8,nominated
+Cabaret,1972,6000000,0,7.05,winner
+The Discreet Charm of the Bourgeoisie,1972,800000,0,10.14,nominated
+Lady Sings the Blues,1972,0,0,4.57,nominated
+The Exorcist,1973,11000000,441306145,110.15,nominated
+Paper Moon,1973,2500000,30900000,7.26,nominated
+Alice Doesn't Live Here Anymore,1974,0,0,7.54,nominated
+Jaws,1975,7000000,470653000,43.3,winner
+Hail the Conquering Hero,1944,0,0,5.08,nominated
+Dog Day Afternoon,1975,1800000,46665856,14.04,winner
+Nashville,1975,2200000,10,6.27,nominated
+Network,1976,3800000,23689877,9.33,winner
+The Turning Point,1977,0,0,4.48,nominated
+Julia,1977,0,0,7.05,winner
+Annie Hall,1977,4000000,38251425,10.49,winner
+The Goodbye Girl,1977,0,102000000,7.43,nominated
+A Little Night Music,1977,0,0,1.59,nominated
+Autumn Sonata,1978,0,0,7.58,nominated
+Interiors,1978,10000000,10400000,7.06,nominated
+Death on the Nile,1978,7920000,14560084,19.94,winner
+The Wiz,1978,24000000,21049053,8.43,nominated
+The China Syndrome,1979,5900000,51718367,9.35,nominated
+The Lost Weekend,1945,1250000,11000000,9.7,winner
+Norma Rae,1979,4500000,22228000,6.85,nominated
+Private Benjamin,1980,15000000,69800000,6.3,nominated
+Coal Miner's Daughter,1980,15000000,67182787,7.75,nominated
+Reds,1981,35000000,40382659,8.7,nominated
+The Jolson Story,1946,0,0,1.89,nominated
+Absence of Malice,1981,12000000,40716963,8.7,nominated
+The Best Years of Our Lives,1946,2100000,23650000,9.4,winner
+Sophie's Choice,1982,12000000,30036000,9.32,nominated
+Notorious,1946,1000000,24500000,9.55,nominated
+An Officer and a Gentleman,1982,7500000,129795554,14.1,nominated
+Missing,1982,0,14000000,7,nominated
+Victor/Victoria,1982,15000000,28215453,7.74,nominated
+Silkwood,1983,0,0,8.05,nominated
+Educating Rita,1983,0,0,6.37,nominated
+Gentleman's Agreement,1947,2000000,7800000,6.32,nominated
+Flashdance,1983,4000000,92921203,11.61,nominated
+Crossfire,1947,250000,1300000,6.01,nominated
+The Bostonians,1984,0,0,1.48,nominated
+Amadeus,1984,18000000,51973029,18.01,nominated
+Odd Man Out,1947,0,0,7.21,nominated
+A Passage to India,1984,8000000,27201487,7.85,nominated
+Romancing the Stone,1984,10000000,86572238,15.5,nominated
+Brazil,1985,15000000,0,17.78,nominated
+The Color Purple,1985,15000000,146292000,13.98,nominated
+The Trip to Bountiful,1985,0,7218340,2.58,nominated
+A Chorus Line,1985,0,14202899,7.34,nominated
+The Official Story,1985,0,0,6.38,nominated
+The Purple Rose of Cairo,1985,15000000,10631333,7.2,nominated
+Hamlet,1948,750000,0,6.8,winner
+Witness,1985,12000000,68706993,11.68,nominated
+Out of Africa,1985,31000000,128499205,10.06,winner
+Hannah and Her Sisters,1986,6400000,40084041,7.96,nominated
+Peggy Sue Got Married,1986,18000000,41382841,8.59,nominated
+Star Trek IV: The Voyage Home,1986,24000000,133000000,12.4,nominated
+Children of a Lesser God,1986,0,31853080,5.63,nominated
+All the King's Men,1949,0,0,6.83,nominated
+Moonstruck,1987,15000000,80640528,12.03,nominated
+The Last Emperor,1987,23000000,43984230,11.97,winner
+Fatal Attraction,1987,14000000,320145693,17.83,nominated
+Broadcast News,1987,20000000,67330500,8.98,nominated
+Hope and Glory,1987,0,0,7.06,nominated
+Die Hard,1988,28000000,140767956,33.92,nominated
+Working Girl,1988,28000000,103173635,8.92,nominated
+Dangerous Liaisons,1988,14000000,34670720,9.27,winner
+A Fish Called Wanda,1988,7500000,62493712,13.15,nominated
+The Asphalt Jungle,1950,1232000,0,8.3,nominated
+Gorillas in the Mist,1988,22000000,0,8.27,nominated
+The Abyss,1989,70000000,90000098,17.68,nominated
+Henry V,1989,9000000,10176701,7.78,winner
+Crimes and Misdemeanors,1989,19000000,18254702,7.68,nominated
+Born on the Fourth of July,1989,14000000,161001698,10.78,nominated
+Driving Miss Daisy,1989,7500000,145793296,10.35,winner
+Ghost,1990,22000000,505000000,34.21,winner
+An American in Paris,1951,5635000,6981000,8.58,winner
+Alice,1990,0,0,5.64,nominated
+Metropolitan,1990,225000,2900000,6.43,nominated
+The Silence of the Lambs,1991,19000000,272742922,11.28,nominated
+Strangers on a Train,1951,1200000,7000000,11.19,nominated
+Fried Green Tomatoes,1991,11000000,119418501,14.88,nominated
+Terminator 2: Judgment Day,1991,102000000,520000000,65.49,nominated
+The Fisher King,1991,24000000,41895491,9.18,nominated
+The Addams Family,1991,30000000,191502426,31.1,nominated
+JFK,1991,40000000,205405498,16.16,winner
+Toys,1992,0,23278931,7.85,nominated
+Enchanted April,1992,0,13200170,4.51,nominated
+Passion Fish,1992,5000000,4814619,2.67,nominated
+Howards End,1992,8000000,26126837,8.57,nominated
+The Greatest Show on Earth,1952,4000000,36000000,7.9,nominated
+The Player,1992,8000000,21706101,8.59,nominated
+Malcolm X,1992,34000000,48169908,13.2,nominated
+Husbands and Wives,1992,0,0,7.38,nominated
+Bram Stoker's Dracula,1992,40000000,215862692,37.7,winner
+The Bad and the Beautiful,1952,1558000,3373000,6.28,winner
+High Noon,1952,730000,8000000,8.63,nominated
+The Quiet Man,1952,1750000,3800000,7.59,nominated
+Unforgiven,1992,14400000,159157447,23.8,winner
+Dave,1993,28000000,92000000,11.45,nominated
+Schindler's List,1993,22000000,321365567,35.73,winner
+The Piano,1993,7000000,40185556,12.41,nominated
+The Age of Innocence,1993,34000000,32255440,9.42,nominated
+The Snows of Kilimanjaro,1952,0,0,5.32,nominated
+Short Cuts,1993,0,6110979,7.38,nominated
+Julius Caesar,1953,0,0,8.5,nominated
+Speed,1994,30000000,350448145,34.04,nominated
+Shane,1953,3100000,20000000,10.66,nominated
+Heavenly Creatures,1994,5000000,3049135,7.3,nominated
+The War of the Worlds,1953,2000000,0,10.55,nominated
+"The Adventures of Priscilla, Queen of the Desert",1994,2000000,11224491,8.13,winner
+The Band Wagon,1953,0,0,6.45,nominated
+Legends of the Fall,1994,30000000,160638883,18.92,winner
+Four Weddings and a Funeral,1994,4400000,245700832,15.18,nominated
+A Little Princess,1995,17000000,0,17.52,nominated
+Apollo 13,1995,52000000,355237933,15.3,winner
+The Caine Mutiny,1954,2000000,21750000,7.62,nominated
+The Glenn Miller Story,1954,0,0,6.72,nominated
+Babe,1995,30000000,254134910,24.53,nominated
+Dead Man Walking,1995,11000000,39363635,8.24,nominated
+A Star Is Born,1954,5019770,4335968,9.24,nominated
+Secrets & Lies,1996,4500000,13417292,8.21,nominated
+Fly Away Home,1996,22000000,25143818,10.26,nominated
+Executive Suite,1954,0,0,3.86,nominated
+Emma,1996,6000000,22231658,9.53,nominated
+The English Patient,1996,27000000,231976425,13.43,winner
+Evita,1996,55000000,141047179,7.27,nominated
+The Crucible,1996,25000000,7343114,8.5,nominated
+As Good as It Gets,1997,50000000,314178011,17.87,nominated
+Boogie Nights,1997,15000000,43101594,13.57,nominated
+The Ten Commandments,1956,13000000,122700000,50.24,nominated
+The King and I,1956,4550000,21300000,8.56,nominated
+Pleasantville,1998,60000000,49805462,8.38,nominated
+Shakespeare in Love,1998,25000000,289317794,11.28,winner
+Elizabeth,1998,30000000,82150642,10.47,nominated
+Primary Colors,1998,65000000,52100000,9.06,nominated
+Beloved,1998,0,0,7.14,nominated
+Witness for the Prosecution,1957,3000000,9000000,12.22,nominated
+Sayonara,1957,0,0,6.5,nominated
+The Bridge on the River Kwai,1957,3000000,44908000,12.89,winner
+The Matrix,1999,63000000,463517383,64.02,winner
+The Sixth Sense,1999,40000000,672806292,34.14,nominated
+Election,1999,0,0,8.9,nominated
+Being John Malkovich,1999,13000000,22863596,12.37,nominated
+Anna and the King,1999,75000000,113996937,10.38,nominated
+Magnolia,1999,37000000,48451803,16.74,nominated
+Titus,1999,0,2,5.88,nominated
+The Cider House Rules,1999,24000000,88545092,9.15,winner
+An Affair to Remember,1957,2100000,3800000,7.34,nominated
+The Talented Mr. Ripley,1999,40000000,128798265,13.04,nominated
+Topsy-Turvy,1999,0,0,6.89,nominated
+Gigi,1958,3319355,13200000,7.37,winner
+Teacher's Pet,1958,0,0,4.59,nominated
+Erin Brockovich,2000,52000000,256271286,13.84,nominated
+Chocolat,2000,25000000,152500343,14.82,nominated
+"Crouching Tiger, Hidden Dragon",2000,17000000,213525736,14.98,nominated
+Almost Famous,2000,60000000,47386287,16.45,winner
+The Patriot,2000,110000000,215294342,29.88,nominated
+Billy Elliot,2000,5000000,109280263,15.91,nominated
+Anatomy of a Murder,1959,2000000,8000000,8.94,nominated
+North by Northwest,1959,4000000,13275000,14.62,nominated
+102 Dalmatians,2000,85000000,183611771,11.68,nominated
+Traffic,2000,48000000,207515725,16.65,nominated
+Mulholland Drive,2001,15000000,20271129,17.61,nominated
+Amélie,2001,10000000,173921954,20.13,nominated
+Gosford Park,2001,19800000,87754044,10.46,nominated
+Spartacus,1960,12000000,60000000,24.42,nominated
+Never on Sunday,1960,151000,8000000,3.58,nominated
+In the Bedroom,2001,1700000,0,12.77,nominated
+My Big Fat Greek Wedding,2002,5000000,368744044,9.62,nominated
+The Guns of Navarone,1961,6000000,28900000,16.38,nominated
+Breakfast at Tiffany's,1961,2500000,9500000,14.59,nominated
+Far from Heaven,2002,13500000,29027914,6.86,nominated
+Yojimbo,1961,0,0,11.83,nominated
+Talk to Her,2002,0,51001550,9.07,winner
+That Touch of Mink,1962,0,0,8.6,nominated
+Lost in Translation,2003,4000000,119723856,13.03,nominated
+Cold Mountain,2003,79000000,173013509,14.28,nominated
+The Barbarian Invasions,2003,8000000,3432342,6.76,nominated
+Girl with a Pearl Earring,2003,0,31466789,12.8,nominated
+The Manchurian Candidate,1962,2200000,7700000,12.44,nominated
+Mystic River,2003,25000000,156822020,21.33,nominated
+The Incredibles,2004,92000000,631442092,106.37,nominated
+Million Dollar Baby,2004,30000000,216763646,23.04,winner
+A Very Long Engagement,2004,47000000,0,7.63,nominated
+A Hard Day's Night,1964,560000,2360561,8.86,nominated
+Finding Neverland,2004,25000000,116766556,15.01,nominated
+Lemony Snicket's A Series of Unfortunate Events,2004,140000000,209073645,19.57,nominated
+Sideways,2004,16000000,109502303,9.08,nominated
+Vera Drake,2004,11000000,13300000,8.14,nominated
+Ray,2004,40000000,124731534,23.22,nominated
+The Americanization of Emily,1964,0,0,3.4,nominated
+The Passion of the Christ,2004,30000000,611899420,89.01,nominated
+Doctor Zhivago,1965,11000000,111858363,18.59,winner
+The New World,2005,30000000,30536013,10.85,nominated
+The Constant Gardener,2005,25000000,82466670,11.88,nominated
+Charlie and the Chocolate Factory,2005,150000000,474968763,231.59,nominated
+Memoirs of a Geisha,2005,85000000,162242962,56.21,winner
+Who's Afraid of Virginia Woolf?,1966,7500000,33736689,9.04,winner
+Capote,2005,7000000,49327405,11.48,nominated
+A Man for All Seasons,1966,3900000,28350000,8.56,winner
+Match Point,2005,15000000,85306374,15.21,nominated
+The Fortune Cookie,1966,0,0,7.17,nominated
+Pride & Prejudice,2005,28000000,121147947,45.9,nominated
+The Sand Pebbles,1966,12000000,20000000,9.26,nominated
+A History of Violence,2005,32000000,60740827,11.54,nominated
+Alfie,1966,0,0,7.23,nominated
+Pan's Labyrinth,2006,19000000,83258226,43.94,nominated
+Little Children,2006,26000000,14821658,16.65,nominated
+Little Miss Sunshine,2006,8000000,100523181,15.25,winner
+In the Heat of the Night,1967,2000000,27379978,8.71,nominated
+The Queen,2006,15000000,123384128,11.92,nominated
+The Graduate,1967,3000000,104945305,14.47,winner
+Notes on a Scandal,2006,15000000,49814392,10.25,nominated
+Oliver!,1968,10000000,37402877,10.94,nominated
+Planet of the Apes,1968,5800000,32589624,31.81,nominated
+Dreamgirls,2006,70000000,154937680,12.74,nominated
+Babel,2006,25000000,135330182,16.56,nominated
+Bullitt,1968,5500000,42300873,8.98,winner
+Z,1969,0,83305,11.3,nominated
+Midnight Cowboy,1969,3600000,44785053,10.04,winner
+Butch Cassidy and the Sundance Kid,1969,6000000,102308889,12.17,nominated
+Juno,2007,7500000,232372681,20.83,nominated
+"They Shoot Horses, Don't They?",1969,0,0,7.85,nominated
+Alice's Restaurant,1969,0,0,4.43,nominated
+The Savages,2007,0,10653221,6.31,nominated
+No Country for Old Men,2007,25000000,171627166,25.94,nominated
+Easy Rider,1969,360000,60000000,11.34,nominated
+Atonement,2007,30000000,131016624,21.51,nominated
+Love Story,1970,2200000,136400000,9.09,nominated
+Patton,1970,12000000,89800000,9.46,winner
+Tora! Tora! Tora!,1970,25485000,37150000,12.1,nominated
+Lars and the Real Girl,2007,12000000,11293663,10.1,nominated
+La Vie en Rose,2007,25000000,86274793,12.95,nominated
+Elizabeth: The Golden Age,2007,55000000,74237563,11.96,winner
+Across the Universe,2007,45000000,29625761,10.86,nominated
+A Clockwork Orange,1971,2200000,26589000,36.41,nominated
+The French Connection,1971,1800000,41158757,9.39,nominated
+The Last Picture Show,1971,1300000,29133000,8.27,nominated
+The Dark Knight,2008,185000000,1004558444,88.38,nominated
+The Godfather,1972,6000000,245066411,68.09,winner
+The Curious Case of Benjamin Button,2008,150000000,333932083,39.14,nominated
+The Poseidon Adventure,1972,5000000,84563118,12.15,nominated
+1776,1972,0,0,9.28,nominated
+Happy-Go-Lucky,2008,0,18696602,7.61,nominated
+Deliverance,1972,2000000,46122355,9.94,nominated
+The Sting,1973,5500000,159616327,11.63,winner
+American Graffiti,1973,777000,140000000,8.57,nominated
+A Touch of Class,1973,0,18312000,2.33,nominated
+The Duchess,2008,17759769,43306325,13.97,winner
+Serpico,1973,3000000,29800000,8.62,nominated
+In the Loop,2009,0,6149791,8.81,nominated
+The Conversation,1974,1600000,4420000,9.62,nominated
+Inglourious Basterds,2009,70000000,321457747,89.72,nominated
+Avatar,2009,237000000,2847246203,523.1,nominated
+Blazing Saddles,1974,2600000,119500000,11.01,nominated
+Chinatown,1974,6000000,30000000,16.63,nominated
+The Towering Inferno,1974,14000000,116000000,9.54,winner
+An Education,2009,7500000,26096852,9.55,nominated
+Bright Star,2009,10000000,14374652,9.1,nominated
+Young Frankenstein,1974,2800000,86273333,14.4,nominated
+The Young Victoria,2009,35000000,29196409,10.96,winner
+Barry Lyndon,1975,11000000,198992,12.18,nominated
+All the President's Men,1976,8500000,70600000,15.75,winner
+Rocky,1976,1000000,117250402,51.6,nominated
+Taxi Driver,1976,1300000,28570902,40.49,nominated
+Two-Minute Warning,1976,0,0,4.89,nominated
+Alice in Wonderland,2010,200000000,1025467110,140.22,winner
+Winter's Bone,2010,2000000,13831503,9.48,nominated
+Toy Story 3,2010,200000000,1066969703,125.48,nominated
+I Am Love,2010,3600000,12014663,6.53,nominated
+Logan's Run,1976,9000000,25000000,13.22,nominated
+The Kids Are All Right,2010,3500000,34705850,8.58,nominated
+Inception,2010,160000000,825532764,127.44,winner
+Star Wars,1977,11000000,775398007,130.64,nominated
+The Tempest,2010,0,0,1.87,nominated
+Black Swan,2010,13000000,329398046,29.71,nominated
+127 Hours,2010,18000000,35692920,22.51,nominated
+Another Year,2010,8000000,18124262,7.56,nominated
+True Grit,2010,38000000,252276927,19.98,nominated
+The King's Speech,2010,15000000,414211549,14.8,nominated
+Close Encounters of the Third Kind,1977,20000000,306889114,18.92,winner
+The Deer Hunter,1978,15000000,50000000,17.99,winner
+Superman,1978,55000000,300218018,45.14,nominated
+The Boys from Brazil,1978,0,0,9.85,nominated
+All That Jazz,1979,12000000,37823676,6.67,nominated
+Kramer vs. Kramer,1979,8000000,106260000,10.05,winner
+Bridesmaids,2011,32500000,288383523,15.42,nominated
+The Help,2011,25000000,216639112,117.33,nominated
+The Rose,1979,9250000,29174648,6.76,nominated
+Jane Eyre,2011,0,34710627,10.62,nominated
+Midnight in Paris,2011,17000000,151119219,15.73,nominated
+A Separation,2011,5000000,24426169,11.57,nominated
+Manhattan,1979,9000000,39946780,8.75,nominated
+Raging Bull,1980,18000000,23000000,15.08,winner
+The Descendants,2011,20000000,177243185,38.71,nominated
+Ordinary People,1980,6000000,54766923,8.31,winner
+Hugo,2011,170000000,185770160,22.43,nominated
+Somewhere in Time,1980,5100000,0,8.42,nominated
+On Golden Pond,1981,15000000,119285432,7.22,winner
+W.E.,2011,15000000,868439,8.36,nominated
+Pennies from Heaven,1981,22000000,9171289,5.59,nominated
+Ragtime,1981,0,0,5.95,nominated
+Chariots of Fire,1981,5500000,58972904,9.95,winner
+Excalibur,1981,11000000,34967437,10.36,nominated
+Tootsie,1982,21000000,177200000,9.86,nominated
+Gandhi,1982,22000000,77737889,12.28,winner
+Diner,1982,0,0,8.04,nominated
+The Verdict,1982,16000000,53977250,8.08,nominated
+Mirror Mirror,2012,85000000,183018522,22.98,nominated
+Snow White and the Huntsman,2012,170000000,396600000,63.01,nominated
+Moonrise Kingdom,2012,16000000,68263166,9.55,nominated
+WarGames,1983,12000000,79567667,9.86,nominated
+Beasts of the Southern Wild,2012,1800000,21107746,7.24,nominated
+Terms of Endearment,1983,8000000,108423749,9.09,winner
+Skyfall,2012,200000000,1108569499,68.38,nominated
+Argo,2012,44500000,232325503,15.32,winner
+Lincoln,2012,65000000,275293450,14.2,nominated
+Zero Dark Thirty,2012,40000000,132820716,22.16,nominated
+Les Misérables,2012,61000000,441809770,13.93,nominated
+Amour,2012,8900000,29844753,9.5,nominated
+Silver Linings Playbook,2012,21000000,236412453,38.71,nominated
+Flight,2012,31000000,161772375,21.18,nominated
+The Natural,1984,28000000,47951979,10.66,nominated
+Splash,1984,8000000,69821334,12.77,nominated
+2010,1984,28000000,40400657,11.01,nominated
+Ran,1985,11500005,11859533,12.01,nominated
+Kiss of the Spider Woman,1985,11,17005229,6.47,nominated
+Top Gun,1986,15000000,356830601,891.61,nominated
+The Great Gatsby,2013,105000000,351040419,31.1,winner
+Blue Velvet,1986,6000000,8618766,14.52,nominated
+Before Midnight,2013,3000000,11176469,12.39,nominated
+Blue Jasmine,2013,18000000,99206215,18.66,nominated
+20 Feet from Stardom,2013,1000000,5892466,8.7,winner
+Prisoners,2013,46000000,122126687,43.29,nominated
+Empire of the Sun,1987,35000000,66700000,13.82,nominated
+Nebraska,2013,12000000,27682872,6.93,nominated
+Dallas Buyers Club,2013,5000000,55736588,14.76,nominated
+RoboCop,1987,13000000,53424681,27.45,nominated
+Radio Days,1987,16000000,0,7.89,nominated
+Philomena,2013,12000000,100129872,7.31,nominated
+American Hustle,2013,40000000,251171807,23.16,nominated
+The Wolf of Wall Street,2013,100000000,392000000,202.33,nominated
+Maurice,1987,0,2438304,8.44,nominated
+12 Years a Slave,2013,20000000,187000000,23.05,nominated
+Rain Man,1988,25000000,354825435,17.86,winner
+The Accidental Tourist,1988,0,32632093,7.6,nominated
+Bull Durham,1988,7000000,50888000,12.57,nominated
+Big,1988,18000000,151927281,17.68,nominated
+The Invisible Woman,2013,0,3986888,9.94,nominated
+The Last Temptation of Christ,1988,7000000,8373585,18.9,nominated
+Field of Dreams,1989,15000000,84431625,13.18,nominated
+Dead Poets Society,1989,16400000,235860116,31.68,nominated
+Do the Right Thing,1989,6500000,37295445,8.51,nominated
+Boyhood,2014,4000000,48137666,12.18,nominated
+Maleficent,2014,180000000,758539785,119.07,nominated
+The Hunt for Red October,1990,30000000,200512643,23.41,nominated
+Nightcrawler,2014,8500000,50300000,56.69,nominated
+Birdman or (The Unexpected Virtue of Ignorance),2014,18000000,103215094,27.57,winner
+Selma,2014,20000000,66787908,7.08,nominated
+Into the Woods,2014,50000000,212902372,19.91,nominated
+The Theory of Everything,2014,15000000,123726688,29.72,nominated
+Barton Fink,1991,9000000,6153939,10.05,nominated
+Hook,1991,70000000,300855000,26.43,nominated
+Scent of a Woman,1992,31000000,134095253,17.52,nominated
+A Few Good Men,1992,40000000,243240178,28.24,nominated
+The Crying Game,1992,3705538,62548947,9.77,nominated
+Basic Instinct,1992,49000000,352927224,26.54,nominated
+The Lover,1992,0,5013090,19.84,nominated
+The Remains of the Day,1993,11500000,23237911,10.44,nominated
+In the Name of the Father,1993,13000000,65796862,13.71,nominated
+The Fugitive,1993,44000000,368875760,20.59,nominated
+Cinderella,2015,95000000,543514353,80.45,nominated
+Mad Max: Fury Road,2015,150000000,378858340,102.32,winner
+Inside Out,2015,175000000,857611174,101.08,nominated
+Sleepless in Seattle,1993,21000000,227799884,12.31,nominated
+In the Line of Fire,1993,40000000,176997168,13.29,nominated
+Philadelphia,1993,26000000,206678440,15,nominated
+The Martian,2015,108000000,630161890,71.02,nominated
+Forrest Gump,1994,55000000,677387716,52.52,winner
+Brooklyn,2015,11000000,62076141,15.1,nominated
+Carol,2015,11800000,40272135,14.26,nominated
+Room,2015,13000000,35401758,18.72,nominated
+Quiz Show,1994,31000000,24822619,7.19,nominated
+Star Wars: The Force Awakens,2015,245000000,2068223624,126.17,nominated
+The Hateful Eight,2015,44000000,155760117,23.73,nominated
+The Danish Girl,2015,15000000,64191523,36.91,nominated
+Leaving Las Vegas,1995,3600000,49800000,14.45,nominated
+Batman Forever,1995,100000000,336529144,32.85,nominated
+The Usual Suspects,1995,6000000,23341568,17.14,winner
+Jerry Maguire,1996,50000000,273552592,20.46,nominated
+Fargo,1996,7000000,60611975,18.36,nominated
+Lone Star,1996,5000000,13269963,8.31,nominated
+Michael Collins,1996,25000000,16900000,6.43,nominated
+L.A. Confidential,1997,35000000,126216940,16.77,nominated
+The Full Monty,1997,3500000,257850122,9.14,nominated
+Arrival,2016,47000000,203388186,59.97,nominated
+Fantastic Beasts and Where to Find Them,2016,180000000,809342332,374.73,winner
+Air Force One,1997,85000000,315156409,19,nominated
+Hidden Figures,2016,25000000,230698791,44.12,nominated
+La La Land,2016,30000000,447407695,27.45,nominated
+Donnie Brasco,1997,35000000,124909762,16.23,nominated
+Sing,2016,75000000,634151679,112.14,winner
+Jackie,2016,9000000,13960394,14.92,nominated
+20th Century Women,2016,7000000,5664764,11.32,nominated
+Fences,2016,24000000,64414761,30.12,nominated
+Manchester by the Sea,2016,9000000,78988148,20.38,nominated
+Florence Foster Jenkins,2016,29000000,48902953,8.32,nominated
+Out of Sight,1998,48000000,77745966,10.45,nominated
+Velvet Goldmine,1998,0,4313644,7.78,nominated
+Allied,2016,85000000,119520023,18.12,nominated
+Logan,2017,97000000,619021436,80.44,nominated
+Get Out,2017,4500000,255407969,45.91,nominated
+Beauty and the Beast,2017,160000000,1263521126,83.75,nominated
+The Green Mile,1999,60000000,286801374,61.03,nominated
+The Big Sick,2017,5000000,56303596,12.72,nominated
+Call Me by Your Name,2017,4000000,41063475,96.94,nominated
+Wonder Boys,2000,35000000,0,9.03,nominated
+Monster's Ball,2001,4000000,44909486,10.84,nominated
+About a Boy,2002,27000000,129000000,11.39,nominated
+The Pianist,2002,35000000,120072577,38.33,winner
+Gangs of New York,2002,100000000,193772504,16.69,nominated
+Frida,2002,12000000,56298474,20.74,nominated
+Finding Nemo,2003,94000000,940335536,120.26,nominated
+The Aviator,2004,110000000,213700000,24.34,winner
+Troy,2004,175000000,497409852,49.44,nominated
+The Phantom of the Opera,2004,70000000,154648887,15.02,nominated
+Collateral,2004,65000000,217764291,19.48,nominated
+Munich,2005,70000000,130982129,14.34,nominated
+"Good Night, and Good Luck.",2005,7000000,54600000,5.76,nominated
+Brokeback Mountain,2005,14000000,178043761,28.92,nominated
+Cinderella Man,2005,88000000,108539911,17.18,nominated
+Batman Begins,2005,150000000,374218673,77.12,nominated
+The Squid and the Whale,2005,1500000,11098131,7.11,nominated
+Letters from Iwo Jima,2006,19000000,68673228,14.8,nominated
+The Departed,2006,90000000,291465000,33.47,winner
+Curse of the Golden Flower,2006,45000000,78568977,12.27,nominated
+Blood Diamond,2006,100000000,171720398,39.07,nominated
+The Diving Bell and the Butterfly,2007,14000020,19777647,12.01,nominated
+Michael Clayton,2007,25000000,92991835,10.89,nominated
+The Bourne Ultimatum,2007,70000000,442824138,25.9,winner
+The Prestige,2006,40000000,109676311,24.74,nominated
+Australia,2008,130000000,211787511,14.09,nominated
+The Black Dahlia,2006,50000000,49111202,13.68,nominated
+Up in the Air,2009,25000000,166842739,17.4,nominated
+Nine,2009,80000000,53825515,9.57,nominated
+Ratatouille,2007,150000000,623726000,166.96,nominated
+A Serious Man,2009,7000000,31430334,7.58,nominated
+The Blind Side,2009,29000000,309208309,82.78,nominated
+The Fighter,2010,25000000,93617009,15.08,nominated
+Extremely Loud & Incredibly Close,2011,40000000,55247881,11.02,nominated
+Anna Karenina,2012,0,68929150,19.1,winner
+Her,2013,23000000,47351251,32.02,nominated
+The Imitation Game,2014,14000000,233555708,58.26,winner
+Lion,2016,12000000,140312928,24.38,nominated
+The Assassination of Jesse James by the Coward Robert Ford,2007,30000000,14711793,11.98,nominated
+In Bruges,2008,15000000,34533783,15.36,nominated
+Frost/Nixon,2008,25000000,18593156,7.93,nominated
+Milk,2008,0,0,3.81,nominated
+District 9,2009,30000000,210819611,70.23,nominated
+The Imaginarium of Doctor Parnassus,2009,30000000,64352607,13.19,nominated
+The Messenger,2009,6500000,1595417,6.08,nominated
+The Social Network,2010,40000000,224920315,30.21,nominated
+Moneyball,2011,50000000,110206216,21.29,nominated
+The Ides of March,2011,12500000,76338111,9.16,nominated
+Tinker Tailor Soldier Spy,2011,30000000,80630608,14.1,nominated
+The Artist,2011,15000000,133432856,11.97,nominated
+Margin Call,2011,3500000,19504039,11.77,nominated
+The Girl with the Dragon Tattoo,2011,90000000,232617430,17.34,winner
+War Horse,2011,66000000,177584879,30.45,nominated
+Life of Pi,2012,120000000,609016565,44.64,nominated
+Django Unchained,2012,100000000,425368238,73.13,nominated
+The Grandmaster,2013,3860000,64076736,36.26,nominated
+Captain Phillips,2013,55000000,218791811,16.05,nominated
+Inside Llewyn Davis,2013,11000000,32935319,10.03,nominated
+The Grand Budapest Hotel,2014,30000000,174600318,30.36,nominated
+Whiplash,2014,3300000,13092000,50.91,nominated
+Inherent Vice,2014,20000000,14710975,16.8,nominated
+Foxcatcher,2014,24000000,12096300,9.08,nominated
+Mr. Turner,2014,0,5405500,5.94,nominated
+American Sniper,2014,58800000,542307423,94.99,nominated
+Ex Machina,2015,15000000,36869414,27.7,nominated
+Straight Outta Compton,2015,28000000,201634991,51.35,nominated
+Bridge of Spies,2015,40000000,165478348,15.99,nominated
+The Big Short,2015,28000000,133346506,24.62,winner
+Spotlight,2015,20000000,98690254,13.28,winner
+Hell or High Water,2016,12000000,37589296,17.9,nominated
+Hacksaw Ridge,2016,40000000,175302354,242.05,winner
+Moonlight,2016,4000000,65046687,20.23,nominated
+Baby Driver,2017,34000000,226945087,78.96,nominated
+Boys Town,1938,0,0,4.23,nominated
+The Thief of Bagdad,1940,0,0,10.24,winner
+Sun Valley Serenade,1941,0,0,2.29,nominated
+Sahara,1943,0,0,6.02,nominated
+"Objective, Burma!",1945,0,0,4.15,nominated
+Anchors Aweigh,1945,0,0,6.64,nominated
+Red River,1948,3000000,9012000,9.36,nominated
+The Treasure of the Sierra Madre,1948,3800000,4307000,9.43,winner
+The African Queen,1951,1000000,10750000,9.24,nominated
+The Big Sky,1952,140,0,4.66,nominated
+Stalag 17,1953,1661530,0,10.81,nominated
+On the Waterfront,1954,910000,9600000,11.5,winner
+"Heaven Knows, Mr. Allison",1957,0,0,5.6,nominated
+The Defiant Ones,1958,0,0,6.16,nominated
+The Hustler,1961,2000000,7600000,9.71,nominated
+Lawrence of Arabia,1962,15000000,69995385,20.55,nominated
+The Longest Day,1962,10000000,50100000,11.52,winner
+The Flight of the Phoenix,1965,5355000,0,16.01,nominated
+Fantastic Voyage,1966,5115000,12000000,8.56,nominated
+Blow-Up,1966,1800000,0,8.83,nominated
+The Dirty Dozen,1967,5400000,45300000,12.94,nominated
+2001: A Space Odyssey,1968,12000000,71923560,32.85,nominated
+Ice Station Zebra,1968,0,0,7.36,nominated
+Death in Venice,1971,0,0,6.95,nominated
+Sleuth,1972,0,0,8.04,nominated
+Midnight Express,1978,2300000,35000000,10.12,nominated
+Apocalypse Now,1979,31500000,150000000,25.09,nominated
+The Black Hole,1979,20000000,35841901,11.11,nominated
+The Blue Lagoon,1980,4500000,58853106,40.81,nominated
+Tron,1982,17000000,33000000,22.2,nominated
+Beverly Hills Cop,1984,14000000,316360478,15.95,nominated
+A Soldier's Story,1984,6000000,21821347,6.92,nominated
+Stand by Me,1986,8000000,52287414,20.44,nominated
+Platoon,1986,6000000,138530565,25.81,nominated
+The Mission,1986,24500000,17218023,10.99,nominated
+Pirates,1986,40000000,1641825,5.87,nominated
+Full Metal Jacket,1987,30000000,46357676,31.33,nominated
+Glory,1989,18000000,26828365,12.24,nominated
+Searching for Bobby Fischer,1993,0,7266383,9.19,nominated
+Farewell My Concubine,1993,0,5750000,10.93,nominated
+Good Will Hunting,1997,10000000,225933435,41.14,winner
+Saving Private Ryan,1998,70000000,481840909,60.37,nominated
+Gladiator,2000,103000000,465361176,44.94,winner
+"O Brother, Where Art Thou?",2000,26000000,71868327,15.62,nominated
+Black Hawk Down,2001,92000000,172989651,40.38,winner
+Road to Perdition,2002,80000000,181001478,15.98,winner
+Master and Commander: The Far Side of the World,2003,150000000,212011111,14.6,nominated
+The Last Samurai,2003,140000000,456758981,31.6,nominated
+Before Sunset,2004,2700000,15992615,12.35,nominated
+The Illusionist,2006,16500000,87892388,19.12,nominated
+Restrepo,2010,0,1437000,8.57,nominated
+The Tree of Life,2011,32000000,54674226,12.3,nominated
+Gravity,2013,105000000,723192705,24.39,winner
+Cutie and the Boxer,2013,0,0,6.16,nominated
+Unbroken,2014,65000000,163442937,16.56,nominated
+Sicario,2015,30000000,84872444,59.07,nominated
+The Revenant,2015,135000000,532950503,55.09,nominated
+Silence,2016,46000000,23737523,29.8,nominated
+Dunkirk,2017,100000000,527000000,31.54,nominated
