@@ -1,0 +1,32 @@
+OSCAR project - 
+
+1. Combined two datasets - 'movies' and 'oscar' on (movies.title = oscar.film) and (movies.year = oscar.year)
+using merge queries in PowerQuery. 
+
+Operations on resultant dataset - 
+
+2. Columns 'genres, production_companies, production_countries' had values in the format like ['Drama', 'Family',    
+   'Fantasy', 'Romance']
+3. To deal with these values, removed "[, ],'" using Find and Replace. Splitted the resultant entry into multiple columns using Split Option where
+   , was used as a delimeter. To deal efficiently with this type of data, unpivoted this data to have multiple rows. 
+
+4. Deleted columns like 'crew_female_representation', 'crew_gender', 'cast_gender' from the dataset as they were not useful for analysis. 
+5. Rounded values in columns like 'popularity' to upto 2 decimal places using 'Round' function.
+
+6. Broke the dataset into several parts like (film,year,genre), (film,year,production_company), (film,year,production_country), 
+   (film,category,popularity,vote_count,vote_avg), (film,year,popularity,budget,revenue,status) for further ease in analysis. 
+
+7. Added these datasets into tableau and used relationships to work with columns not belonging to same dataset. 
+
+Tableau - 
+
+Analysis done in Tableau - 
+
+a) Avg movie budget and Avg movie revenue
+b) Comparison between movie budget vs movie revenue (line chart)
+c) Avg budget and revenue in different genres (bar chart)
+d) Number of Movies nominated over years (line chart)
+e) Nominations received from different production companies (bar chart)
+f) Nominations and Winners in different Genres over the years (bar chart)
+g) Vote count and popularity of fidderent Genres (heat map) 
+ 
